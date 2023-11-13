@@ -2669,3 +2669,79 @@ Minimum required: 527.27
 [2023.11.13-19.38.50:298][867]LogViewport: Scene viewport resized to 1526x776, mode Windowed.
 [2023.11.13-19.38.50:322][868]LogViewport: Scene viewport resized to 1526x772, mode Windowed.
 [2023.11.13-19.38.50:347][869]LogViewport: Scene viewport resized to 1526x769, mode Windowed.
+[2023.11.13-19.45.30:260][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.13-19.45.30:261][793]LogWorld: BeginTearingDown for /Game/DevelopedContent/UEDPIE_0_Main_Map
+[2023.11.13-19.45.30:261][793]LogWorld: UWorld::CleanupWorld for Main_Map, bSessionEnded=true, bCleanupResources=true
+[2023.11.13-19.45.30:261][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-19.45.30:261][793]LogContentBundle: [Main_Map(Standalone)] Deleting container.
+[2023.11.13-19.45.30:274][793]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.13-19.45.30:281][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.13-19.45.30:297][793]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.13-19.45.30:300][793]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.11.13-19.45.30:300][793]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.11.13-19.45.30:302][793]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.11.13-19.45.30:306][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.13-19.45.30:312][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.11.13-19.45.30:344][794]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.11.13-19.45.31:788][934]LogViewport: Scene viewport resized to 1526x766, mode Windowed.
+[2023.11.13-19.45.31:799][935]LogViewport: Scene viewport resized to 1526x762, mode Windowed.
+[2023.11.13-19.45.31:826][936]LogViewport: Scene viewport resized to 1526x717, mode Windowed.
+[2023.11.13-19.45.31:850][937]LogViewport: Scene viewport resized to 1526x669, mode Windowed.
+[2023.11.13-19.45.31:878][938]LogViewport: Scene viewport resized to 1526x626, mode Windowed.
+[2023.11.13-19.45.31:904][939]LogViewport: Scene viewport resized to 1526x586, mode Windowed.
+[2023.11.13-19.45.31:931][940]LogViewport: Scene viewport resized to 1526x567, mode Windowed.
+[2023.11.13-19.45.31:955][941]LogViewport: Scene viewport resized to 1526x554, mode Windowed.
+[2023.11.13-19.45.31:980][942]LogViewport: Scene viewport resized to 1526x548, mode Windowed.
+[2023.11.13-19.45.32:028][946]LogViewport: Scene viewport resized to 1526x546, mode Windowed.
+[2023.11.13-19.45.32:039][947]LogViewport: Scene viewport resized to 1526x545, mode Windowed.
+[2023.11.13-19.45.32:067][948]LogViewport: Scene viewport resized to 1526x526, mode Windowed.
+[2023.11.13-19.45.32:089][949]LogViewport: Scene viewport resized to 1526x517, mode Windowed.
+[2023.11.13-19.45.32:115][950]LogViewport: Scene viewport resized to 1526x516, mode Windowed.
+[2023.11.13-19.45.32:156][953]LogViewport: Scene viewport resized to 1526x515, mode Windowed.
+[2023.11.13-19.45.32:172][954]LogViewport: Scene viewport resized to 1526x507, mode Windowed.
+[2023.11.13-19.45.32:199][955]LogViewport: Scene viewport resized to 1526x497, mode Windowed.
+[2023.11.13-19.45.32:971][ 29]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/DevelopedContent/Player_UI.Player_UI
+[2023.11.13-19.45.32:971][ 29]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.13-19.45.32:971][ 29]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.13-19.45.32:982][ 29]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.13-19.45.32:982][ 29]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.13-19.47.54:773][ 71]LogEditorTransaction: Undo Move Widget
+[2023.11.13-19.47.55:342][ 85]LogEditorTransaction: Undo Move Widget
+[2023.11.13-19.48.20:036][596]LogEditorTransaction: Undo Edit Bottom
+[2023.11.13-19.48.47:847][334]LogEditorTransaction: Undo Move Widget
+[2023.11.13-19.48.48:330][343]LogEditorTransaction: Undo Move Widget
+[2023.11.13-19.48.48:895][367]LogEditorTransaction: Undo Paste clipboard contents
+[2023.11.13-19.49.50:237][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-19.49.50:267][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DevelopedContent/Player_UI" FILE="E:/Unreal Projects/cg_characreator/CharaCreator/Content/DevelopedContent/Player_UI.uasset" SILENT=true
+[2023.11.13-19.49.50:287][ 66]LogSavePackage: Moving output files for package: /Game/DevelopedContent/Player_UI
+[2023.11.13-19.49.50:288][ 66]LogSavePackage: Moving 'E:/Unreal Projects/cg_characreator/CharaCreator/Saved/Player_UICE586FAE42EC020B1AB65387393DAE32.tmp' to 'E:/Unreal Projects/cg_characreator/CharaCreator/Content/DevelopedContent/Player_UI.uasset'
+[2023.11.13-19.49.50:294][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 438 ms)
+[2023.11.13-19.49.50:296][ 66]AssetCheck: New page: Asset Save: Player_UI
+[2023.11.13-19.49.50:296][ 66]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/DevelopedContent/Player_UI.Player_UI
+[2023.11.13-19.50.18:212][ 16]BlueprintLog: New page: Compile Player_UI
+[2023.11.13-19.50.18:262][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.11.13-19.50.26:014][503]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-19.50.26:045][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DevelopedContent/Player_UI" FILE="E:/Unreal Projects/cg_characreator/CharaCreator/Content/DevelopedContent/Player_UI.uasset" SILENT=true
+[2023.11.13-19.50.26:064][503]LogSavePackage: Moving output files for package: /Game/DevelopedContent/Player_UI
+[2023.11.13-19.50.26:065][503]LogSavePackage: Moving 'E:/Unreal Projects/cg_characreator/CharaCreator/Saved/Player_UIA8954DF8471346D7F48E1881C4D5434F.tmp' to 'E:/Unreal Projects/cg_characreator/CharaCreator/Content/DevelopedContent/Player_UI.uasset'
+[2023.11.13-19.50.26:071][503]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 495 ms)
+[2023.11.13-19.50.26:072][503]AssetCheck: New page: Asset Save: Player_UI
+[2023.11.13-19.50.26:072][503]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/DevelopedContent/Player_UI.Player_UI
+[2023.11.13-19.50.49:246][ 42]LogSlate: Took 0.014989 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.11.13-19.52.04:441][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.13-19.52.04:443][569]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DevelopedContent/Main_Map' took 0.023
+[2023.11.13-19.52.04:444][569]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/DevelopedContent/Player_UI] ([2] browsable assets)...
+[2023.11.13-19.52.04:448][569]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/DevelopedContent/Player_UI.Player_UI]
+[2023.11.13-19.52.04:448][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/DevelopedContent/Player_UI]
+[2023.11.13-19.52.04:467][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DevelopedContent/Player_UI_Auto4
+[2023.11.13-19.52.04:468][569]LogSavePackage: Moving 'E:/Unreal Projects/cg_characreator/CharaCreator/Saved/Player_UI_Auto48CD295F542A4AC3B62A32ABEC02B6BE6.tmp' to 'E:/Unreal Projects/cg_characreator/CharaCreator/Saved/Autosaves/Game/DevelopedContent/Player_UI_Auto4.uasset'
+[2023.11.13-19.52.04:473][569]LogFileHelpers: Auto-saving content packages took 0.030
+[2023.11.13-19.52.22:388][648]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.13-19.52.22:417][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DevelopedContent/Player_UI" FILE="E:/Unreal Projects/cg_characreator/CharaCreator/Content/DevelopedContent/Player_UI.uasset" SILENT=true
+[2023.11.13-19.52.22:457][648]LogSavePackage: Moving output files for package: /Game/DevelopedContent/Player_UI
+[2023.11.13-19.52.22:458][648]LogSavePackage: Moving 'E:/Unreal Projects/cg_characreator/CharaCreator/Saved/Player_UI3A30FB674FA5C7B49FECFDA870A94FDC.tmp' to 'E:/Unreal Projects/cg_characreator/CharaCreator/Content/DevelopedContent/Player_UI.uasset'
+[2023.11.13-19.52.22:464][648]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 571 ms)
+[2023.11.13-19.52.22:466][648]AssetCheck: New page: Asset Save: Player_UI
+[2023.11.13-19.52.22:466][648]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/DevelopedContent/Player_UI.Player_UI
+[2023.11.13-19.52.23:234][696]BlueprintLog: New page: Compile Player_UI
+[2023.11.13-19.52.23:274][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
