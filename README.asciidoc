@@ -1,3 +1,5 @@
+:1: https://cdn.discordapp.com/attachments/675444010017619992/1174088866446200892/Windows.7z
+
 = CharaCreator
 
 This is (or will eventually be) a character creator made for the Computer Graphics course.
@@ -24,9 +26,12 @@ Now you should have a build of the game, if everything went well.
 
 == Releases
 
-There is no release yet.
+{1}[A very early Windows version]
 
 == How to use
 
 After booting up the project, you should see a screen with a bunch of buttons and sliders. Right now it's not very functional, but in theory, you will be able to change categories
 with the buttons and adjust the length of different clothing objects with the sliders.
+
+You might have to ALT+Tab to access the UI again, as there's no actual way to focus on the UI yet after you click into the game world.
+
