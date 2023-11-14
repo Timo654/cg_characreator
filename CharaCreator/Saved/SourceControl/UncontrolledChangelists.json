@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/Unreal Projects/cg_characreator/CharaCreator/Content/DevelopedContent/Player_UI.uasset",
 				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/DevelopedContent/Main_Map_HLOD0_Instancing.uasset",
 				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/__ExternalActors__/DevelopedContent/Main_Map/7/CA/6QPJHC4FPQUGMBH6Z1KKFH.uasset",
 				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/__ExternalObjects__/DevelopedContent/Main_Map/0/PV/50M3WB2BRYX48CHSRMQHRA.uasset",
@@ -19,7 +18,6 @@
 				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/__ExternalActors__/DevelopedContent/Main_Map/7/T6/9H1RBIM6VLUJQO8YBZRZF6.uasset",
 				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/__ExternalActors__/DevelopedContent/Main_Map/5/2G/CISKJTPNAKV3929MRICJOJ.uasset",
 				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/__ExternalActors__/DevelopedContent/Main_Map/A/O2/OWBFLF9S4RHVLR65RZEM0Q.uasset",
-				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/__ExternalActors__/DevelopedContent/Main_Map/9/ZX/MXD3D1JBVKG6JLRE5RP84K.uasset",
 				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/__ExternalActors__/DevelopedContent/Main_Map/7/Y0/HJ9NQYJTCCGE9FW64N4RN6.uasset",
 				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/__ExternalActors__/DevelopedContent/Main_Map/A/90/B0UHI2G5QYU28Y2G7BRJK3.uasset",
 				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/__ExternalActors__/DevelopedContent/Main_Map/0/0J/68QA3MXP8XYN0FWAW014KB.uasset",
@@ -77,6 +75,11 @@
 				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/DevelopedContent/Player_UI.uasset",
 				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/DevelopedContent/NewBlueprint.uasset",
 				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/StarterContent/Materials/M_Brick_Clay_New.uasset",
+				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/DevelopedContent/28916666-paint-buckets-color-wheel.uasset",
+				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/DevelopedContent/grayscale-black-white-check-plaid-seamless-pattern-vector-25055005.uasset",
+				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/DevelopedContent/TPG0063AB.uasset",
+				"E:/Unreal Projects/cg_characreator/CharaCreator/Content/DevelopedContent/Player_UI.uasset",
+				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/__ExternalActors__/DevelopedContent/Main_Map/9/ZX/MXD3D1JBVKG6JLRE5RP84K.uasset",
 				"G:/cg_characreator/CharaCreator/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
 			]
 		}
