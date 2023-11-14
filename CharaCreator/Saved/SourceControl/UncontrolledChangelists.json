@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/cg_characreator/CharaCreator/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"G:/cg_characreator/CharaCreator/Content/DevelopedContent/Character.uasset",
+				"G:/cg_characreator/CharaCreator/Content/DevelopedContent/Player_UI.uasset",
 				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/DevelopedContent/Main_Map_HLOD0_Instancing.uasset",
 				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/__ExternalActors__/DevelopedContent/Main_Map/7/CA/6QPJHC4FPQUGMBH6Z1KKFH.uasset",
 				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/__ExternalObjects__/DevelopedContent/Main_Map/0/PV/50M3WB2BRYX48CHSRMQHRA.uasset",
@@ -79,8 +82,7 @@
 				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/DevelopedContent/grayscale-black-white-check-plaid-seamless-pattern-vector-25055005.uasset",
 				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/DevelopedContent/TPG0063AB.uasset",
 				"E:/Unreal Projects/cg_characreator/CharaCreator/Content/DevelopedContent/Player_UI.uasset",
-				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/__ExternalActors__/DevelopedContent/Main_Map/9/ZX/MXD3D1JBVKG6JLRE5RP84K.uasset",
-				"G:/cg_characreator/CharaCreator/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+				"C:/Users/jaanh/Documents/GitHub/cg_characreator/CharaCreator/Content/__ExternalActors__/DevelopedContent/Main_Map/9/ZX/MXD3D1JBVKG6JLRE5RP84K.uasset"
 			]
 		}
 	]
