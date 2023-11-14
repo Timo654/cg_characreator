@@ -1,0 +1,31 @@
+= CharaCreator
+This is (or will eventually be) a character creator made for the Computer Graphics course.
+Right now it is still very much a work-in-progress.
+
+
+== Building the project
+=== Prerequisites
+
+[horizontal]
+Unreal Engine 5.3.2:: This is an UE5 project, so you will need the editor.
+
+Clone the repository somewhere on your PC.
+
+Open Unreal Engine. After it's open, select "Browse" at the bottom of the Project Browser. Find the project and select it.
+
+After that, CharaCreator should show up. Select it and press Open.
+
+After that, above the viewport, click Platforms and build it for your platform of choice. Only Windows has been tested.
+Select a platform and press "Package Content".
+
+Now you should have a build of the game, if everything went well.
+
+
+== Releases
+
+There is no release yet.
+
+== How to use
+
+After booting up the project, you should see a screen with a bunch of buttons and sliders. Right now it's not very functional, but in theory, you will be able to change categories
+with the buttons and adjust the length of different clothing objects with the sliders.
