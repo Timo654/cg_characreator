@@ -1,6 +1,7 @@
 = CharaCreator
+
 This is (or will eventually be) a character creator made for the Computer Graphics course.
-Right now it is still very much a work-in-progress.
+Right now it is still very much a *work-in-progress*.
 
 
 == Building the project
